@@ -10,6 +10,6 @@ AusGas dataset has 476 rows representing approximately 3.25 years of data.
 Task is to predict the gasoline production for next 6 months or next 12 months after Aug 1995.
 
 #### Following statistics model are used for predictions:
-1.AutoReg
-2.ARIMA
-3.auto_arima
+##### 1.AutoReg
+##### 2.ARIMA
+##### 3.auto_arima
